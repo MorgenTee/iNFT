@@ -1,0 +1,43 @@
+{
+  "name": "iNFT #8",
+  "description": "iNFT -- the independent NFT collection on SmartBCH",
+  "image": "https://github.com/MorgenTee/iNFT/blob/main/iEyes_images/8.png",
+  "dna": "a02a69c9298bf2ed40abd284e50b62e9ca20e26f",
+  "edition": 8,
+  "date": 1643493210262,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Goo",
+      "value": "Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
