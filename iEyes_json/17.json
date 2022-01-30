@@ -1,7 +1,7 @@
 {
   "name": "iNFT #17",
   "description": "iNFT -- the independent NFT collection on SmartBCH",
-  "image": "https://github.com/MorgenTee/iNFT/blob/main/iEyes_images/17.png",
+  "image": "https://raw.githubusercontent.com/MorgenTee/iNFT/main/iEyes_images/17.png",
   "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
   "edition": 17,
   "date": 1643493207584,
